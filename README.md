@@ -1,6 +1,6 @@
 # The BigAdd Language
 
-BigAdd language is a small programming language that has been designed in order to add and subtract big integers programmatically and display the result on the screen. The lexical analyzer and interpreter for the BigAdd language works from the command line with the command 'file extension file name' respectively.
+BigAdd language is a small programming language that has been designed in order to add and subtract big integers programmatically and display the result on the screen. The lexical analyzer and interpreter for the BigAdd language works from the command line with the command 'ba file name' respectively.
 
 ![image](https://user-images.githubusercontent.com/112978786/194415661-6b3419d9-995c-49c3-a954-e12e95f6a081.png)
 
