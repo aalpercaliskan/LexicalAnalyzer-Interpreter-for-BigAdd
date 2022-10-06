@@ -1,6 +1,6 @@
 # Screenshots
 
-**Screenshots for Lexical Analyzer**
+## Screenshots for Lexical Analyzer
 
 Since the lexical analyzer files consist of too many lines, it is considered sufficient to give only one example. A lexical analyzer file is also created for each of the other interpreter examples below.
 
@@ -18,9 +18,9 @@ Since the lexical analyzer files consist of too many lines, it is considered suf
 ![image](https://user-images.githubusercontent.com/112978786/194416317-552f12cf-7c58-415a-8745-4d64ac710b65.png)
 
 
-**Screenshots for Interpreter**
+## Screenshots for Interpreter 
 
-- **Example1**
+- ### Example1
 
 **Correct Input:**
 
@@ -37,7 +37,7 @@ Since the lexical analyzer files consist of too many lines, it is considered suf
 ![image](https://user-images.githubusercontent.com/112978786/194416365-5a9222f7-f6e8-4ff3-b259-6a9cc453e70f.png)
 
 
-- **Example2**
+- ### Example2
 
 **Example File:**
 
@@ -49,7 +49,7 @@ Since the lexical analyzer files consist of too many lines, it is considered suf
 ![image](https://user-images.githubusercontent.com/112978786/194416404-c7c7c09e-66c8-4206-9004-062dbb705661.png)
 
 
-- **Example3**
+- ### Example3
 
 **Example File:**
 
@@ -59,7 +59,7 @@ Since the lexical analyzer files consist of too many lines, it is considered suf
 
 ![image](https://user-images.githubusercontent.com/112978786/194416457-5dbad929-b226-428f-8bc8-330f59b7d06b.png)
 
-- **Example4**
+- ### Example4
 
 **Example File:**
 
@@ -71,7 +71,7 @@ Since the lexical analyzer files consist of too many lines, it is considered suf
 ![image](https://user-images.githubusercontent.com/112978786/194416529-a2e4ab18-c1f3-4cef-88ee-7973e7b76de1.png)
 
 
-- **Example5**
+- ### Example5
 
 **Example File:**
 
