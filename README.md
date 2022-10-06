@@ -35,17 +35,6 @@ The only data type for variables is the integer. Integer is a signed whole numbe
 
 Strings exist only as constants and are used in the out statements only.
 
-**example:** 123113, -5 3.14159 is not a valid integer (it is a real number)
-
-3.0 is not a valid integer (decimal point should not be displayed)
-
-3. is not a valid integer (decimal point should not be displayed)
-
-- 5 is not a valid integer (there should be no blank between the minus sign and the first digit.
-
---5 is not a valid integer (only one minus sign allowed)
-
-+5 is not a valid integer (plus sign is not allowed), 0, -314159 are valid integer representations.
 
 **Variables**
 
